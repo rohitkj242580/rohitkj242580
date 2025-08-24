@@ -36,7 +36,6 @@
 - 🎮 **Stone-Paper-Scissors Game** (Python)  
 - ❓ **Quiz Game** (Python)  
 - 🗣️ **Jarvis-like Desktop Voice Assistant** (Python)  
-- 🏥 **Patient Management System** (Python)  
 - 📝 **Blog Post & View Website** (Django)  
 - 🛒 **Grocery Store Website** (Django)  
 - 🎮 **Gaming Hub Website** (HTML, CSS, JS)  
