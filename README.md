@@ -12,7 +12,7 @@
 ## 🛠 Skills & Technologies  
 
 ### 🔹 Programming & Development  
-- **Languages:** Python, Kotlin, C++  
+- **Languages:** Python, Kotlin, C++ , C , JAVA.  
 - **Databases:** SQLite, MySQL (basic)  
 
 ### 🔹 Web Development  
