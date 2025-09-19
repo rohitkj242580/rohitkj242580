@@ -13,11 +13,12 @@
 
 ### 🔹 Programming & Development  
 - **Languages:** Python, Kotlin, C++ , C , JAVA.  
-- **Databases:** SQLite, MySQL (basic)  
+- **Databases:** SQLite, FireBase (basics)
 
-### 🔹 Web Development  
-- **Frontend:** HTML, CSS ,Android XML
-- **UI/UX:** Figma
+### 🔹 Android Development  
+
+### 🔹 UI/UX:
+   **Figma**
 
 ### 🔹 Tools & Software  
 - **IDE & Platforms:** Android Studio, VS Code, IntelliJ IDEA  
@@ -33,7 +34,8 @@
 
 ## 📌 Projects (Highlights)  
 - 🎮 **Stone-Paper-Scissors Game** (Python)  
-- ❓ **Quiz Game** (kotlin)  
+- ❓ **Quiz Game** (kotlin)
+- ❓ **Stop Watch** (kotlin)
 - 🗣️ **Jarvis-like Desktop Voice Assistant** (Python)  
 - 📝 **Blog Post & View Website** (Django)  
 - 🛒 **Grocery Store Website** (Django)
