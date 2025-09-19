@@ -18,7 +18,6 @@
 ### 🔹 Android Development  
 
 ### 🔹 UI/UX:
-   **Figma**
 
 ### 🔹 Tools & Software  
 - **IDE & Platforms:** Android Studio, VS Code, IntelliJ IDEA  
